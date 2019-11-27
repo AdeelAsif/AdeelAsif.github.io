@@ -9,7 +9,7 @@ const NPMPackages = () => (
     <SEO title="NPM Packages" />
     <h1>Hi Adeel Here</h1>
     <p>My NPM Packages</p>
-    <Link to="learn">Go Back</Link>
+    <Link to="/">Go Back</Link>
   </Layout>
 )
 
